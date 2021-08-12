@@ -1,0 +1,30 @@
+title: MEDTECH @ UCLA DGSOM
+
+highlighter: rouge
+date_format: "%b %-d, %Y"
+
+permalink: /blog/:year:month:day_:title:output_ext
+
+##### COLLECTIONS #####
+collections:
+  projects:
+    output: true
+    permalink: /:collection/:path:output_ext
+
+##### SOCIAL INTEGRATION #####
+github_username: ucla-medtech
+
+##### BUILD SETTINGS #####
+incremental: true
+
+include:
+  - _pages
+
+exclude:
+  - LICENSE
+  - README.md
+
+# strip all unncessary whitespace and comments
+# http://jch.penibelst.de/
+compress_html:
+  blanklines: true
