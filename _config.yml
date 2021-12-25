@@ -12,7 +12,7 @@ collections:
     permalink: /:collection/:path:output_ext
 
 ##### SOCIAL INTEGRATION #####
-github_username: ucla-medtech
+github_username: medtech-edu
 
 ##### BUILD SETTINGS #####
 incremental: true
