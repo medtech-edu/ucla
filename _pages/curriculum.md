@@ -29,7 +29,12 @@ Note: A UCLA email (@g.ucla.edu) is required to view session recordings.
 <a href="https://drive.google.com/file/d/1lHaQ9n0hf8c7NWGQxr3vA5de5CdF5lB2/view?usp=sharing" class="btn btn-light mr-2"><i class="fab fa-youtube"></i> Recording</a>
 <a href="https://colab.research.google.com/drive/1XagXn4EKXm_H2rCdpWRiyL3eR9VtVARA?usp=sharing" class="btn btn-light mr-2"><i class="far fa-file-code"></i> Notebook</a>
 
-**4. (Next session) Data Structures II**: sets and dictionaries
+**4. Data Structures II**: sets and dictionaries
+
+<a href="https://drive.google.com/file/d/1QzcF3GG1FEtS4ZEcXXOKuSNbMCkgIyYX/view?usp=sharing" class="btn btn-light mr-2"><i class="fab fa-youtube"></i> Recording</a>
+<a href="https://colab.research.google.com/drive/1yWFrgRammamTqXdgcTX9cJyHR_xH0slV?usp=sharing" class="btn btn-light mr-2"><i class="far fa-file-code"></i> Notebook</a>
+
+**5. (Next session) Packages**: import statements, NumPy ecosystem
 
 <h1 class="page-title">Future Series</h1>
 
