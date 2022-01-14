@@ -34,7 +34,10 @@ Note: A UCLA email (@g.ucla.edu) is required to view session recordings.
 <a href="https://drive.google.com/file/d/1QzcF3GG1FEtS4ZEcXXOKuSNbMCkgIyYX/view?usp=sharing" class="btn btn-light mr-2"><i class="fab fa-youtube"></i> Recording</a>
 <a href="https://colab.research.google.com/drive/1yWFrgRammamTqXdgcTX9cJyHR_xH0slV?usp=sharing" class="btn btn-light mr-2"><i class="far fa-file-code"></i> Notebook</a>
 
-**5. (Next session) Packages**: import statements, NumPy ecosystem
+**5. Modules**: `import` statements, NumPy ecosystem, real-word example with CDC COVID-19 data
+
+<a href="https://drive.google.com/file/d/1CIh4kT8LY-a8f8T3n0f5dgDlGbHPZrZ_/view?usp=sharing" class="btn btn-light mr-2"><i class="fab fa-youtube"></i> Recording</a>
+<a href="https://colab.research.google.com/drive/1af5AMiJgKeb456XJK_bshwZH5fwLl22c?usp=sharing" class="btn btn-light mr-2"><i class="far fa-file-code"></i> Notebook</a>
 
 <h1 class="page-title">Future Series</h1>
 
